@@ -1,0 +1,1574 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mhr">
+<e>
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Аймет</l> <stress>Аймет</stress>
+     <stg>
+       <st Contlex="PROP_">Аймет</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Алмакай</l> <stress>Алмакай</stress>
+     <stg>
+       <st Contlex="PROP_">Алмакай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Ардаш</l> <stress>Ардаш</stress>
+     <stg>
+       <st Contlex="PROP_">Ардаш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Арсланбык</l> <stress>Арсланбык</stress>
+     <stg>
+       <st Contlex="PROP_">Арсланбык</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Афин</l> <stress>Афи•н</stress>
+     <stg>
+       <st Contlex="PROP_">Афин</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Варман</l> <stress>Варман</stress>
+     <stg>
+       <st Contlex="PROP_">Варман</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N">Вӱдйоктарыше</l> <stress>Вӱдйокта•рыше</stress>
+     <stg>
+       <st Contlex="PROP-PLC_">Вӱдйокта•рыш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="N" type="Prop">Aquarius</t>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <tg xml:lang="rus"> <t/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Вӱлтӓк</l> <stress>Вӱлтӓк</stress>
+     <stg>
+       <st Contlex="PROP_">Вӱлтӓк</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Вӱрзӹм</l> <stress>Вӱрзӹм</stress>
+     <stg>
+       <st Contlex="PROP_">Вӱрзӹм</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Даря</l> <stress>Даря</stress>
+     <stg>
+       <st Contlex="PROP_">Даря</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Изикокуй</l> <stress>Изикокуй</stress>
+     <stg>
+       <st Contlex="PROP_">Изикокуй</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Изымарий</l> <stress>Изымарий</stress>
+     <stg>
+       <st Contlex="PROP_">Изымарий</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Йыван</l> <stress>Йыва•н</stress>
+     <stg>
+       <st Contlex="PROP_">Йыван</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Йылдырвика</l> <stress>Йылдырвика</stress>
+     <stg>
+       <st Contlex="PROP_">Йылдырвика</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" sem_type="Plc" type="Prop">Йӱзбика</l> <stress>Йӱзбика</stress>
+     <stg>
+       <st Contlex="PROP_">Йӱзбика</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Каван-ер</l> <stress>Каван-ер</stress>
+     <stg>
+       <st Contlex="PROP_">Каван-ер</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Кечамыш</l> <stress>Кечамыш</stress>
+     <stg>
+       <st Contlex="PROP_">Кечамыш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Кикпай</l> <stress>Кикпай</stress>
+     <stg>
+       <st Contlex="PROP_">Кикпай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Кождемыр</l> <stress>Кождемыр</stress>
+     <stg>
+       <st Contlex="PROP_">Кождемыр</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Кокла-лоҥго</l> <stress>Кокла-лоҥго</stress>
+     <stg>
+       <st Contlex="PROP_">Кокла-лоҥго</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Кокшай</l> <stress>Кокшай</stress>
+     <stg>
+       <st Contlex="PROP_">Кокшай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Кокшар</l> <stress>Кокшар</stress>
+     <stg>
+       <st Contlex="PROP_">Кокшар</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Корамас</l> <stress>Корамас</stress>
+     <stg>
+       <st Contlex="PROP_">Корамас</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Коркашӱдыр</l>
+     <stg>
+       <st Contlex="PROP_">Коркашӱдыр</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop">Otava</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Кугу-Какшан</l> <stress>Кугу-Какшан</stress>
+     <stg>
+       <st Contlex="PROP_">Кугу-Какшан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Кугу-Кокуй</l> <stress>Кугу-Кокуй</stress>
+     <stg>
+       <st Contlex="PROP_">Кугу-Кокуй</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Куж-нур</l> <stress>Куж-нур</stress>
+     <stg>
+       <st Contlex="PROP_">Куж-нур</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Курымзак</l> <stress>Курымзак</stress>
+     <stg>
+       <st Contlex="PROP_">Курымзак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Кучывай</l> <stress>Кучывай</stress>
+     <stg>
+       <st Contlex="PROP_">Кучывай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Кыргори</l> <stress>Кыргори</stress>
+     <stg>
+       <st Contlex="PROP_">Кыргори</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Кӱшыл-соказа</l> <stress>Кӱшыл-соказа</stress>
+     <stg>
+       <st Contlex="PROP_">Кӱшыл-соказа</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Лепешкан</l> <stress>Лепешкан</stress>
+     <stg>
+       <st Contlex="PROP_">Лепешкан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Макаря</l> <stress>Макаря</stress>
+     <stg>
+       <st Contlex="PROP_">Макаря</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Макаря-кӱ</l> <stress>Макаря-кӱ</stress>
+     <stg>
+       <st Contlex="PROP_">Макаря-кӱ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Маря</l> <stress>Маря</stress>
+     <stg>
+       <st Contlex="PROP_">Маря</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Менде</l> <stress>Менде</stress>
+     <stg>
+       <st Contlex="PROP_">Менде</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Менчыла</l> <stress>Менчыла</stress>
+     <stg>
+       <st Contlex="PROP_">Менчыла</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Мераҥ</l> <stress>Мераҥ</stress>
+     <stg>
+       <st Contlex="PROP_">Мераҥ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Монар</l> <stress>Монар</stress>
+     <stg>
+       <st Contlex="PROP_">Монар</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Морко</l> <stress>Морко</stress>
+     <stg>
+       <st Contlex="PROP_">Морко</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Озаҥ</l> <stress>Озаҥ</stress>
+     <stg>
+       <st Contlex="PROP_">Озаҥ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Орымбор</l> <stress>Орымбор</stress>
+     <stg>
+       <st Contlex="PROP_">Орымбор</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ош-Виче</l> <stress>Ош-Виче</stress>
+     <stg>
+       <st Contlex="PROP_">Ош-Виче</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Пайраш</l> <stress>Пайраш</stress>
+     <stg>
+       <st Contlex="PROP_">Пайраш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Парнякай</l> <stress>Парнякай</stress>
+     <stg>
+       <st Contlex="PROP_">Парнякай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Пекшик</l> <stress>Пекшик</stress>
+     <stg>
+       <st Contlex="PROP_">Пекшик</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Перме</l> <stress>Перме</stress>
+     <stg>
+       <st Contlex="PROP_">Перме</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Петырвор</l> <stress>Петырвор</stress>
+     <stg>
+       <st Contlex="PROP_">Петырвор</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Питыр</l> <stress>Питыр</stress>
+     <stg>
+       <st Contlex="PROP_">Питыр</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Пошкырт</l> <stress>По•шкырт</stress>
+     <stg>
+       <st Contlex="PROP_">Пошкырт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Пылачок</l> <stress>Пылачок</stress>
+     <stg>
+       <st Contlex="PROP_">Пылачок</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Пӧкленде</l> <stress>Пӧкленде</stress>
+     <stg>
+       <st Contlex="PROP_">Пӧкленде</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Пӱевӱд</l> <stress>Пӱевӱ•д</stress>
+     <stg>
+       <st Contlex="PROP_">Пӱевӱд</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop">Buj</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Пӱнчер</l> <stress>Пӱнчер</stress>
+     <stg>
+       <st Contlex="PROP_">Пӱнчер</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Пӱрӧ</l> <stress>Пӱрӧ</stress>
+     <stg>
+       <st Contlex="PROP_">Пӱрӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Пӱрӧвӱд</l> <stress>Пӱрӧвӱ•д</stress>
+     <stg>
+       <st Contlex="PROP_">Пӱрӧвӱд</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop">Bir</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Сайтий</l> <stress>Сайтий</stress>
+     <stg>
+       <st Contlex="PROP_">Сайтий</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Сия</l> <stress>Сия</stress>
+     <stg>
+       <st Contlex="PROP_">Сия</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Сӱвыял</l> <stress>Сӱвыял</stress>
+     <stg>
+       <st Contlex="PROP_">Сӱвыял</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Сӱвӧ</l> <stress>Сӱвӧ</stress>
+     <stg>
+       <st Contlex="PROP_">Сӱвӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Сӱндӱр</l> <stress>Сӱндӱр</stress>
+     <stg>
+       <st Contlex="PROP_">Сӱндӱр</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Танып-вӱд</l> <stress>Танып-вӱд</stress>
+     <stg>
+       <st Contlex="PROP_">Танып-вӱд</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Токтар</l> <stress>Токтар</stress>
+     <stg>
+       <st Contlex="PROP_">Токтар</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Тосындо</l> <stress>Тосындо</stress>
+     <stg>
+       <st Contlex="PROP_">Тосындо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Тылчак</l> <stress>Тылчак</stress>
+     <stg>
+       <st Contlex="PROP_">Тылчак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Тымбай</l> <stress>Тымбай</stress>
+     <stg>
+       <st Contlex="PROP_">Тымбай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Тӧлдӧ</l> <stress>Тӧлдӧ</stress>
+     <stg>
+       <st Contlex="PROP_">Тӧлдӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Тӧргым</l> <stress>Тӧргым</stress>
+     <stg>
+       <st Contlex="PROP_">Тӧргым</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Тӧргым-тӱр</l> <stress>Тӧргым-тӱр</stress>
+     <stg>
+       <st Contlex="PROP_">Тӧргым-тӱр</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Тӧрмет</l> <stress>Тӧрмет</stress>
+     <stg>
+       <st Contlex="PROP_">Тӧрмет</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Тӧҥгак</l> <stress>Тӧҥгак</stress>
+     <stg>
+       <st Contlex="PROP_">Тӧҥгак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">У-корак</l> <stress>У-корак</stress>
+     <stg>
+       <st Contlex="PROP_">У-корак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Угарман</l> <stress>Угарма•н</stress>
+     <stg>
+       <st Contlex="PROP_">Угарман</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Хазан</l> <stress>Хазан</stress>
+     <stg>
+       <st Contlex="PROP_">Хазан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Царевококшайский</l> <stress>Царевококшайский</stress>
+     <stg>
+       <st Contlex="PROP_">Царевококшайский</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Чолкоп</l> <stress>Чолкоп</stress>
+     <stg>
+       <st Contlex="PROP_">Чолкоп</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Чорай</l> <stress>Чорай</stress>
+     <stg>
+       <st Contlex="PROP_">Чорай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Шавашар</l> <stress>Шавашар</stress>
+     <stg>
+       <st Contlex="PROP_">Шавашар</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Шанчара</l> <stress>Шанчара</stress>
+     <stg>
+       <st Contlex="PROP_">Шанчара</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Шобашеҥер</l> <stress>Шобашеҥер</stress>
+     <stg>
+       <st Contlex="PROP_">Шобашеҥер</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Шоктешӱдыр</l>
+     <stg>
+       <st Contlex="PROP_">Шоктешӱдыр</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t pos="N" type="Prop">Seulaset</t>
+     </tg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Эжвӱд</l> <stress>Эжвӱд</stress>
+     <stg>
+       <st Contlex="PROP_">Эжвӱд</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Эшым</l> <stress>Эшым</stress>
+     <stg>
+       <st Contlex="PROP_">Эшым</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Яран</l> <stress>Яран</stress>
+     <stg>
+       <st Contlex="PROP_">Яран</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ярмет</l> <stress>Ярмет</stress>
+     <stg>
+       <st Contlex="PROP_">Ярмет</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ӱпӧ-вӱд</l> <stress>Ӱпӧ-вӱд</stress>
+     <stg>
+       <st Contlex="PROP_">Ӱпӧ-вӱд</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="N" type="Prop">Ӱпӧн</l> <stress>Ӱпӧн</stress>
+     <stg>
+       <st Contlex="PROP_">Ӱпӧн</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Prop"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+</r> 

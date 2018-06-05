@@ -1,0 +1,2466 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mhr">
+<e>
+   <lg>
+     <l pos="A" type="Attr">акрет</l>
+     <stg>
+       <st Contlex="A-ATTR">акрет</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin"> <t/>
+     </tg>
+     <defNative/>
+     <xg>
+       <x>акрет годсо</x>
+       <xt xml:lang="fin">vanhanaikainen, muinainen X</xt>
+     </xg>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">аш</l>
+     <stg>
+       <st Contlex="X">аш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>aS lijZe! terveydeksi! (juotaessa) X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">вещевой</l>
+     <stg>
+       <st Contlex="A-ATTR">вещевой</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>v. meSak reppu X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">винительный</l>
+     <stg>
+       <st Contlex="A-ATTR">винительный</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>v. padeZ akkusatiivi X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">водительский</l>
+     <stg>
+       <st Contlex="A-ATTR">водительский</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>v. prava ajokortti X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">вувер</l>
+     <stg>
+       <st Contlex="X">вувер</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>v. kuva (myt.) (vars. valoilmiönä nähtävä paha voima) X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">вуйым-почым</l>
+     <stg>
+       <st Contlex="X">вуйым-почым</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>v.-p. pogaS hankkia lähtöä X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">грецкий</l>
+     <stg>
+       <st Contlex="A-ATTR">грецкий</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>g. pykS saksanpähkinä X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">дательный</l>
+     <stg>
+       <st Contlex="A-ATTR">дательный</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>d. padeZ datiivi X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">домовой</l>
+     <stg>
+       <st Contlex="A-ATTR">домовой</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>d. kniga talonkirja X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">доплатной</l>
+     <stg>
+       <st Contlex="A-ATTR">доплатной</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>d. seryS lisämaksullinen kirje X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">желательный</l>
+     <stg>
+       <st Contlex="A-ATTR">желательный</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>Z. naklonenij desideratiivi X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">зеркальный</l>
+     <stg>
+       <st Contlex="A-ATTR">зеркальный</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>z. karp peilikarppi X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">изъявительный</l>
+     <stg>
+       <st Contlex="A-ATTR">изъявительный</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>i. naklonenij indikatiivi X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">именительный</l>
+     <stg>
+       <st Contlex="A-ATTR">именительный</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>i. padeZ nominatiivi X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">йолт</l>
+     <stg>
+       <st Contlex="X">йолт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>j. koAS väl(k)ähtää X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">йолчием</l>
+     <stg>
+       <st Contlex="A-ATTR">йолчием</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>j. krem kenkävoide, j. mastar suutari X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">йора</l>
+     <stg>
+       <st Contlex="A-ATTR">йора</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>j. nalaS (hevosen) raviharjoitus X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">йошток</l>
+     <stg>
+       <st Contlex="X">йошток</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>j. CuCeS on ikävää X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">йоҥ-йоҥ</l>
+     <stg>
+       <st Contlex="X">йоҥ-йоҥ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>j. SoktaS soida X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">йывыштык</l>
+     <stg>
+       <st Contlex="X">йывыштык</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>j. kiAS maata hiljaa X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">йыра</l>
+     <stg>
+       <st Contlex="X">йыра</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>j. vyg piimä X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">кадем</l>
+     <stg>
+       <st Contlex="A-ATTR">кадем</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>k. godso muinainen X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">каштанат-лай</l>
+     <stg>
+       <st Contlex="A-ATTR">каштанат-лай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>k. kastan kombo kaA parvittain hanhet menevät X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">копыж-ж</l>
+     <stg>
+       <st Contlex="X">копыж-ж</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>mogyr kovaStem k. lie minun tuli luihin asti vilu X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">косвенный</l>
+     <stg>
+       <st Contlex="A-ATTR">косвенный</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>k. padeZ obliikvisija, k. dopolnenij välillinen objekti X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">коҥ</l>
+     <stg>
+       <st Contlex="X">коҥ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>k. lijmeS tajuttomuuteen asti X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">коҥгок</l>
+     <stg>
+       <st Contlex="X">коҥгок</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>k. liAS (leivänkannikka) kuivua X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">кулай</l>
+     <stg>
+       <st Contlex="X">кулай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>k. dene modmo piiloleikki X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">кумалтыш</l>
+     <stg>
+       <st Contlex="A-ATTR">кумалтыш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>k. vurgem kapiot (sulhaselle ja hänen sukulaisilleen) X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">кумыжвуян</l>
+     <stg>
+       <st Contlex="A-ATTR">кумыжвуян</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>k. kiSke tarhakäärme, rantakäärme X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">кыдач-покшеч</l>
+     <stg>
+       <st Contlex="X">кыдач-покшеч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>k. ojlyStaS puhua sekavasti X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">кыр-гор</l>
+     <stg>
+       <st Contlex="X">кыр-гор</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>k. SoktaS alkaa raapia/kuulua rapinaa X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">кырпак</l>
+     <stg>
+       <st Contlex="A-ATTR">кырпак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>k. lum ensilumi X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">кӱсе</l>
+     <stg>
+       <st Contlex="A-ATTR">кӱс%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>k. pajrem (eräs kesäjuhla) X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">леҥге</l>
+     <stg>
+       <st Contlex="A-ATTR">леҥг%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>l. oNa istumapenkin lauta X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">лицевой</l>
+     <stg>
+       <st Contlex="A-ATTR">лицевой</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>l. sCet henkilötili X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">логарӱмбал</l>
+     <stg>
+       <st Contlex="A-ATTR">логарӱмбал</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>l. nörgö (anat.) kurkunkansi X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">лодыш</l>
+     <stg>
+       <st Contlex="X">лодыш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>modyS gyC l. (san.) leikistä onnettomuus X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">лоштак</l>
+     <stg>
+       <st Contlex="X">лоштак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>l. volen SinCaS istua kuin kotonaan X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">луэш</l>
+     <stg>
+       <st Contlex="X">луэш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>l. nalaS mennä takuuseen, puolustaa X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">лӱмаш</l>
+     <stg>
+       <st Contlex="X">лӱмаш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>ik l. mlande yhden ihmisen maaosuus X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">махым</l>
+     <stg>
+       <st Contlex="X">махым</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>m. puaS ogyl olla haksahtamatta X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">местный</l>
+     <stg>
+       <st Contlex="A-ATTR">местный</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>m. padeZ lokatiivi X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">намызе</l>
+     <stg>
+       <st Contlex="A-ATTR">намыз%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>n. godso vanha(naikainen) X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">нашатырный</l>
+     <stg>
+       <st Contlex="A-ATTR">нашатырный</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>n. spirit ammoniakki(liuos) X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">нелеш</l>
+     <stg>
+       <st Contlex="X">нелеш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>n. nalaS pahastua X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">ноля</l>
+     <stg>
+       <st Contlex="X">ноля</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>n. meraN (ihm.) laiha X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">ньыге-нюге</l>
+     <stg>
+       <st Contlex="X">ньыге-нюг%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>Conlan n. CuCeS tuntuu epämiellyttävältä X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">обстоятельственный</l>
+     <stg>
+       <st Contlex="A-ATTR">обстоятельственный</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>o. padeZ (marin) latiivi(sija) X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">олмештыш</l>
+     <stg>
+       <st Contlex="A-ATTR">олмештыш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>o. mut pronomini X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">оръеҥ</l>
+     <stg>
+       <st Contlex="A-ATTR">оръеҥ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>o. vate morsian, nuorikko X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">отчетно-сайлымаш</l>
+     <stg>
+       <st Contlex="A-ATTR">отчетно-сайлымаш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>o. pogynymaS vaalikokous X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">ошын</l>
+     <stg>
+       <st Contlex="X">ошын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>o. koAS valjeta X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">перспективный</l>
+     <stg>
+       <st Contlex="A-ATTR">перспективный</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>p. paSa plan työn pitkän ajan suunnitelma X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">пжик</l>
+     <stg>
+       <st Contlex="X">пжик</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>p. koAS kadota, livistää X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">пиж</l>
+     <stg>
+       <st Contlex="X">пиж</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>parnASan p. käsine X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">повелительный</l>
+     <stg>
+       <st Contlex="A-ATTR">повелительный</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>p. naklonenij imperatiivi X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">повествовательный</l>
+     <stg>
+       <st Contlex="A-ATTR">повествовательный</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>p. predloZenij väitelause X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">подвесной</l>
+     <stg>
+       <st Contlex="A-ATTR">подвесной</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>p. korno nostinrata X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">пожа</l>
+     <stg>
+       <st Contlex="A-ATTR">пожа</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>p. mySkyr möhömaha X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">понудительный</l>
+     <stg>
+       <st Contlex="A-ATTR">понудительный</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>p. zalog kausatiivi X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">почеш</l>
+     <stg>
+       <st Contlex="A-ATTR">почеш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>p. mut postpositio X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">превосходный</l>
+     <stg>
+       <st Contlex="A-ATTR">превосходный</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>p. stepenь superlatiivi X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">придаточный</l>
+     <stg>
+       <st Contlex="A-ATTR">придаточный</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>p. predloZenij sivulause X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">пунчеж</l>
+     <stg>
+       <st Contlex="A-ATTR">пунчеж</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>p. pu niveräinen puu X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">пыч</l>
+     <stg>
+       <st Contlex="X">пыч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>SinCam p. yStaS räp(s)äyttää silmää X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">пычык</l>
+     <stg>
+       <st Contlex="A-ATTR">пычык</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>p. jylme (anat.) häpykieli X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">пӧтынь</l>
+     <stg>
+       <st Contlex="X">пӧтынь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>p. nalaS ostaa X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">пӱчмыла</l>
+     <stg>
+       <st Contlex="X">пӱчмыла</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>p. kalasen SyndaS hän sanoa paukautti X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">рад</l>
+     <stg>
+       <st Contlex="X">рад</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>r. dene riveittäin X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">родительный</l>
+     <stg>
+       <st Contlex="A-ATTR">родительный</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>r. padeZ genetiivi X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">роп</l>
+     <stg>
+       <st Contlex="X">роп</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>uSeS r. vozo ajatus tuli mieleen äkkiä X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">ручной</l>
+     <stg>
+       <st Contlex="A-ATTR">ручной</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>r. granata käsikranaatti X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">рӱп</l>
+     <stg>
+       <st Contlex="X">рӱп</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>r. liAS tummeta X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">рӱшке</l>
+     <stg>
+       <st Contlex="A-ATTR">рӱшк%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>r. pu (puu, jossa on niverät syyt) X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">сип</l>
+     <stg>
+       <st Contlex="A-ATTR">сип</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>s. CodYra tiheikkö X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">скорый</l>
+     <stg>
+       <st Contlex="A-ATTR">скорый</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>s. poezd pikajuna X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">страдательный</l>
+     <stg>
+       <st Contlex="A-ATTR">страдательный</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>s. zalog passiivi X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">так</l>
+     <stg>
+       <st Contlex="X">так</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>t. koStaS kulkea joutilaana X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">такеш</l>
+     <stg>
+       <st Contlex="A-ATTR">такеш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>t. kece arkipäivä X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">тап</l>
+     <stg>
+       <st Contlex="X">тап</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>t. tolaS sattua, joutua, esiintyä X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">ташлама</l>
+     <stg>
+       <st Contlex="X">ташлама</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>t. korka kousa X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">тойки-мойки</l>
+     <stg>
+       <st Contlex="X">тойки-мойки</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>(leikillinen sana laulussa) X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">торланен</l>
+     <stg>
+       <st Contlex="X">торланен</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>t. koStaS kuljeskella X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">тортен</l>
+     <stg>
+       <st Contlex="X">тортен</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>t. koStaS vältellä X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">туаде</l>
+     <stg>
+       <st Contlex="A-ATTR">туад%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>t. vodyn tänä iltana X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">тулеч</l>
+     <stg>
+       <st Contlex="X">тулеч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>t. utla sen lisäksi; t. vara sen jälkeen; t. oZno sitä ennen X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">тыҥгас</l>
+     <stg>
+       <st Contlex="X">тыҥгас</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>t. orva kaksipyöräiset kärryt X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">тӧтырет</l>
+     <stg>
+       <st Contlex="A-ATTR">тӧтырет</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>t. puC eräs soittopilli X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">тӱп</l>
+     <stg>
+       <st Contlex="A-ATTR">тӱп</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>t. imne aisahevonen. t. rodo verisukulaisuus. t. sokyr täysin sokea X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">тӱран</l>
+     <stg>
+       <st Contlex="A-ATTR">тӱран</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>t. poCkaS lorvailla X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">уголок</l>
+     <stg>
+       <st Contlex="X">уголок</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>krasnyj u. punanurkka X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">удобрений</l>
+     <stg>
+       <st Contlex="X">удобрений</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>iskusstvennyj u. apulanta X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">улме</l>
+     <stg>
+       <st Contlex="X">улм%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>u:o godym ollessa, (jnk) aikana X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">умыландарыше</l>
+     <stg>
+       <st Contlex="A-ATTR">умыландарыш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>u. Clen adverbiaali X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">условный</l>
+     <stg>
+       <st Contlex="A-ATTR">условный</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>u. naklonenij konditionaali X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">уша</l>
+     <stg>
+       <st Contlex="A-ATTR">уша</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>u. oNa lauta (jolla pyöritellään taikinaa) X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">чаня</l>
+     <stg>
+       <st Contlex="A-ATTR">чаня</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>C. eN (ihminen) heikko, ponneton X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">чатлама</l>
+     <stg>
+       <st Contlex="A-ATTR">чатлама</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>C. jyStö paukkupakkanen X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">честь</l>
+     <stg>
+       <st Contlex="X">честь</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>Syndyme zadaCym C. dene SuktaS täyttää kunniallisesti ann. tehtävä X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">чроҥ</l>
+     <stg>
+       <st Contlex="X">чроҥ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>C. Sokten rämisten X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">чурк</l>
+     <stg>
+       <st Contlex="X">чурк</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>C. liAS herkistyä, höristää korviaan X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">чылдыр-чолдыр</l>
+     <stg>
+       <st Contlex="X">чылдыр-чолдыр</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>C. SoktaS helistä, soida X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">чыли</l>
+     <stg>
+       <st Contlex="A-ATTR">чыли</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>C. tul tuikku, (pieni) tuli X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">чӱч</l>
+     <stg>
+       <st Contlex="X">чӱч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>C. SinCaS laskeutua kyykkyyn X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">шагыл</l>
+     <stg>
+       <st Contlex="A-ATTR">шагыл</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>S. jolan imne valkojalkainen hevonen X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">шемын</l>
+     <stg>
+       <st Contlex="X">шемын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>S. koAS häämöttää X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">шожым</l>
+     <stg>
+       <st Contlex="X">шожым</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>S. luktaS poistaa lika X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">шот</l>
+     <stg>
+       <st Contlex="X">шот</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>S. dene (jnk) mukaan X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">шоч</l>
+     <stg>
+       <st Contlex="A-ATTR">шоч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>S. jyd sydänyö X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">шу-у</l>
+     <stg>
+       <st Contlex="X">шу-у</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>(onom. veden kohina, naurun hohotus) Pmuu</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">шутыдыме</l>
+     <stg>
+       <st Contlex="X">шутыдым%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>vij S. paSa ylivoimainen työ X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">шутыме</l>
+     <stg>
+       <st Contlex="X">шутым%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>vij S. paSa voimien mukainen työ X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">шӱшкыш</l>
+     <stg>
+       <st Contlex="A-ATTR">шӱшкыш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>S. jyk vihellys(ääni) X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">шӱшпык</l>
+     <stg>
+       <st Contlex="A-ATTR">шӱшпык</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>S. omo nokonen X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">ыресан</l>
+     <stg>
+       <st Contlex="A-ATTR">ыресан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>Y. ENyremyS ristilukki X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">юнге</l>
+     <stg>
+       <st Contlex="A-ATTR">юнг%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>U. Cer ajos (kynnen alla) X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">юпке</l>
+     <stg>
+       <st Contlex="X">юпке</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t pos="Adv">prone</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>U. kiAS maata oikoisena X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">ямым</l>
+     <stg>
+       <st Contlex="X">ямым</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>A. koStaS olla kyytimiehenä X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="A" type="Attr">ямынза</l>
+     <stg>
+       <st Contlex="A-ATTR">ямынза</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>A. portyS huopa X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">ӱдырлыкеш</l>
+     <stg>
+       <st Contlex="X">ӱдырлыкеш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>y. nalaS ottaa (otto)tyttäreksi X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Dep">ӱдырлыклан</l>
+     <stg>
+       <st Contlex="X">ӱдырлыклан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>y. nalaS ottaa (otto)tyttäreksi X</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+</r> 

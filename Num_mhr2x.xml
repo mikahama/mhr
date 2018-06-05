@@ -1,0 +1,2955 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mhr">
+<e order="1">
+   <lg>
+     <l pos="Num">амиян</l> <stress>амиян</stress>
+     <stg>
+       <st Contlex="QNT_">амиян</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">весе</l>
+     <stg>
+       <st Contlex="KvO">вес%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>toinen KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">визымше</l> <stress>ви•зымше</stress>
+     <stg>
+       <st Contlex="KvO">визымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>viides KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">визыт</l> <stress>ви•зыт</stress>
+     <stg>
+       <st Contlex="KvK">визыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>viisi KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">витле</l> <stress>ви•тле</stress>
+     <stg>
+       <st Contlex="KvK">витл%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>viisikymmentä KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">витлымше</l> <stress>ви•тлымше</stress>
+     <stg>
+       <st Contlex="KvO">витлымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>viideskymmenes KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">вич</l> <stress>вич</stress>
+     <stg>
+       <st Contlex="KvK">вич</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t>five</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>viisi KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">вичшӱде</l>
+     <stg>
+       <st Contlex="KvK">вичшӱд%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>viisisataa KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">вичшӱдӧ</l> <stress>ви•чшӱдӧ</stress>
+     <stg>
+       <st Contlex="QNT_">вичшӱдӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">ик</l> <stress>ик</stress>
+     <stg>
+       <st Contlex="KvK">ик</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t>one</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>yksi KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">ик-кок</l> <stress>ик-кок</stress>
+     <stg>
+       <st Contlex="QNT_">ик-кок</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">икте</l> <stress>и•кте</stress>
+     <stg>
+       <st Contlex="KvK">икт%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>yksi KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">икшӱдӧ</l> <stress>и•кшӱдӧ</stress>
+     <stg>
+       <st Contlex="QNT_">икшӱдӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">икымше</l> <stress>и•кымше</stress>
+     <stg>
+       <st Contlex="KvO">икымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>ensimmäinen KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">индеш</l> <stress>инде•ш</stress>
+     <stg>
+       <st Contlex="KvO">индеш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t>nine</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>yhdeksän KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">индеше</l> <stress>инде•ше</stress>
+     <stg>
+       <st Contlex="KvO">индеш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>yhdeksän KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">индешле</l> <stress>инде•шле</stress>
+     <stg>
+       <st Contlex="QNT_">индешле</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">индешлу</l>
+     <stg>
+       <st Contlex="KvO">индешлу</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t>ninety</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>yhdeksänkymmentä KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">индешлуымше</l>
+     <stg>
+       <st Contlex="KvK">индешлуымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>yhdeksäskymmenes KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">индешлымше</l> <stress>инде•шлымше</stress>
+     <stg>
+       <st Contlex="QNT_">индешлымше</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">индешшӱде</l>
+     <stg>
+       <st Contlex="KvO">индешшӱд%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>yhdeksänsataa KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">индешшӱдымше</l>
+     <stg>
+       <st Contlex="KvK">индешшӱдымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>yhdeksässadas KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">индешшӱдымшӧ</l> <stress>инде•шшӱдымшӧ</stress>
+     <stg>
+       <st Contlex="QNT_">индешшӱдымшӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">индешшӱдӧ</l> <stress>инде•шшӱдӧ</stress>
+     <stg>
+       <st Contlex="QNT_">индешшӱдӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">индешымше</l> <stress>инде•шымше</stress>
+     <stg>
+       <st Contlex="KvK">индешымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>yhdeksäs KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">камысыр</l> <stress>камысыр</stress>
+     <stg>
+       <st Contlex="QNT_">камысыр</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кандаш</l> <stress>канда•ш</stress>
+     <stg>
+       <st Contlex="KvK">кандаш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t>eight</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kahdeksan KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кандаше</l> <stress>канда•ше</stress>
+     <stg>
+       <st Contlex="KvK">кандаш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kahdeksan KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">кандашле</l> <stress>канда•шле</stress>
+     <stg>
+       <st Contlex="QNT_">кандашле</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кандашлу</l>
+     <stg>
+       <st Contlex="KvK">кандашлу</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t>eighty</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kahdeksankymmentä KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кандашлымше</l> <stress>канда•шлымше</stress>
+     <stg>
+       <st Contlex="KvO">кандашлымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kahdeksaskymmenes KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кандашшыдмше</l>
+     <stg>
+       <st Contlex="KvO">кандашшыдмш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kahdeksassadas KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кандашшӱде</l>
+     <stg>
+       <st Contlex="KvK">кандашшӱд%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kahdeksansataa KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">кандашшӱдымшӧ</l> <stress>кандашшӱ•дымшӧ</stress>
+     <stg>
+       <st Contlex="QNT_">кандашшӱдымшӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">кандашшӱдӧ</l> <stress>кандашшӱ•дӧ</stress>
+     <stg>
+       <st Contlex="QNT_">кандашшӱдӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">кандашымше</l> <stress>канда•шымше</stress>
+     <stg>
+       <st Contlex="QNT_">кандашымше</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кандаымше</l>
+     <stg>
+       <st Contlex="KvO">кандаымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kahdeksas KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кок</l> <stress>кок</stress>
+     <stg>
+       <st Contlex="KvK">кок</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t>two</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kaksi KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">кок-кум</l> <stress>кок-кум</stress>
+     <stg>
+       <st Contlex="QNT_">кок-кум</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">коктыт</l> <stress>ко•ктыт</stress>
+     <stg>
+       <st Contlex="QNT_">коктыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">кокшӱдӧ</l> <stress>кокшӱдӧ</stress>
+     <stg>
+       <st Contlex="QNT_">кокшӱдӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num">kaksisataa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кокымшо</l> <stress>ко•кымшо</stress>
+     <stg>
+       <st Contlex="KvO">кокымш%{оы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>toinen KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кокыт</l> <stress>ко•кыт</stress>
+     <stg>
+       <st Contlex="KvK">кокыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t>two</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kaksi KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">коле</l>
+     <stg>
+       <st Contlex="KvK">кол%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kaksikymmentä KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">коло</l> <stress>ко•ло</stress>
+     <stg>
+       <st Contlex="QNT_">коло</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">коло-кумло</l> <stress>ко•ло-ку•мло</stress>
+     <stg>
+       <st Contlex="QNT_">ко•ло-кумло</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">колымшо</l> <stress>ко•лымшо</stress>
+     <stg>
+       <st Contlex="QNT_">колымшо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">куд</l> <stress>ку•д</stress>
+     <stg>
+       <st Contlex="KvK">куд</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t>six</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kuusi KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">куд-шым</l> <stress>куд-шым</stress>
+     <stg>
+       <st Contlex="QNT_">куд-шым</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кудле</l>
+     <stg>
+       <st Contlex="KvK">кудл%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kuusikymmentä KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">кудло</l> <stress>ку•дло</stress>
+     <stg>
+       <st Contlex="QNT_">кудло</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кудлымше</l>
+     <stg>
+       <st Contlex="KvO">кудлымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kuudeskymmenes KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">кудлымшо</l> <stress>ку•длымшо</stress>
+     <stg>
+       <st Contlex="QNT_">кудлымшо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кудшӱде</l>
+     <stg>
+       <st Contlex="KvK">кудшӱд%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kuusisataa KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кудшӱдымше</l>
+     <stg>
+       <st Contlex="KvO">кудшӱдымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kuudessadas KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">кудшӱдымшӧ</l> <stress>ку•дшӱдымшӧ</stress>
+     <stg>
+       <st Contlex="QNT_">кудшӱдымшӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">кудшӱдӧ</l> <stress>ку•дшӱдӧ</stress>
+     <stg>
+       <st Contlex="QNT_">кудшӱдӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кудымше</l>
+     <stg>
+       <st Contlex="KvO">кудымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kuudes KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">кудымшо</l> <stress>ку•дымшо</stress>
+     <stg>
+       <st Contlex="QNT_">кудымшо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кудыт</l> <stress>ку•дыт</stress>
+     <stg>
+       <st Contlex="KvK">кудыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t>six</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kuusi KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кум</l> <stress>кум</stress>
+     <stg>
+       <st Contlex="KvK">кум</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t>three</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kolme KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">кум-ныл</l> <stress>кум-ныл</stress>
+     <stg>
+       <st Contlex="QNT_">кум-ныл</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кумле</l>
+     <stg>
+       <st Contlex="KvK">кумл%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kolmekymmentä KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">кумло</l> <stress>ку•мло</stress>
+     <stg>
+       <st Contlex="QNT_">кумло</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кумлымше</l>
+     <stg>
+       <st Contlex="KvO">кумлымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kolmaskymmenes KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">кумлымшо</l> <stress>ку•млымшо</stress>
+     <stg>
+       <st Contlex="QNT_">кумлымшо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кумше</l>
+     <stg>
+       <st Contlex="KvO">кумш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kolmas KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">кумшо</l> <stress>ку•мшо</stress>
+     <stg>
+       <st Contlex="QNT_">кумшо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кумшӱде</l>
+     <stg>
+       <st Contlex="KvK">кумшӱд%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kolmesataa KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кумшӱдымше</l>
+     <stg>
+       <st Contlex="KvO">кумшӱдымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kolmassadas KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">кумшӱдымшӧ</l> <stress>ку•мшӱдымшӧ</stress>
+     <stg>
+       <st Contlex="QNT_">кумшӱдымшӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">кумшӱдӧ</l> <stress>ку•мшӱдӧ</stress>
+     <stg>
+       <st Contlex="QNT_">кумшӱдӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">кумыт</l> <stress>ку•мыт</stress>
+     <stg>
+       <st Contlex="KvK">кумыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t>three</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kolme KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латвизымше</l> <stress>латви•зымше</stress>
+     <stg>
+       <st Contlex="KvO">латвизымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>viidestoista KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латвизыт</l> <stress>латви•зыт</stress>
+     <stg>
+       <st Contlex="KvK">латвизыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng">
+       <t>fifteen</t>
+     </tg>
+     <tg xml:lang="fin">
+       <t>viisitoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латвич</l> <stress>латви•ч</stress>
+     <stg>
+       <st Contlex="KvK">латвич</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>viisitoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латик</l> <stress>лати•к</stress>
+     <stg>
+       <st Contlex="KvK">латик</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>yksitoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латикте</l> <stress>лати•кте</stress>
+     <stg>
+       <st Contlex="KvK">латикт%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>yksitoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латиктыт</l> <stress>лати•ктыт</stress>
+     <stg>
+       <st Contlex="KvK">латиктыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>yksitoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латикымше</l> <stress>лати•кымше</stress>
+     <stg>
+       <st Contlex="KvO">латикымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>yhdestoista KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латиндеш</l> <stress>латинде•ш</stress>
+     <stg>
+       <st Contlex="KvK">латиндеш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>yhdeksäntoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латиндеше</l> <stress>латинде•ше</stress>
+     <stg>
+       <st Contlex="KvK">латиндеш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>yhdeksäntoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латиндешымше</l> <stress>латинде•шымше</stress>
+     <stg>
+       <st Contlex="KvO">латиндешымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>yhdeksästoista KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латкандаш</l> <stress>латканда•ш</stress>
+     <stg>
+       <st Contlex="KvK">латкандаш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kahdeksantoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латкандаше</l> <stress>латканда•ше</stress>
+     <stg>
+       <st Contlex="KvK">латкандаш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kahdeksantoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латкандашымше</l> <stress>латканда•шымше</stress>
+     <stg>
+       <st Contlex="KvO">латкандашымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kahdeksastoista KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латкок</l> <stress>латко•к</stress>
+     <stg>
+       <st Contlex="KvK">латкок</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kaksitoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">латкоктыт</l> <stress>латко•ктыт</stress>
+     <stg>
+       <st Contlex="QNT_">латкоктыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латкокымше</l>
+     <stg>
+       <st Contlex="KvO">латкокымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kahdestoista KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">латкокымшо</l> <stress>латко•кымшо</stress>
+     <stg>
+       <st Contlex="QNT_">латкокымшо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латкокыт</l> <stress>латко•кыт</stress>
+     <stg>
+       <st Contlex="KvK">латкокыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kaksitoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латкуд</l> <stress>латку•д</stress>
+     <stg>
+       <st Contlex="KvK">латкуд</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kuusitoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латкудымше</l>
+     <stg>
+       <st Contlex="KvO">латкудымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kuudestoista KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">латкудымшо</l> <stress>латку•дымшо</stress>
+     <stg>
+       <st Contlex="QNT_">латкудымшо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латкудыт</l> <stress>латку•дыт</stress>
+     <stg>
+       <st Contlex="KvK">латкудыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kuusitoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латкум</l> <stress>латку•м</stress>
+     <stg>
+       <st Contlex="KvK">латкум</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kolmetoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латкумше</l>
+     <stg>
+       <st Contlex="KvO">латкумш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kolmastoista KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">латкумшо</l> <stress>латку•мшо</stress>
+     <stg>
+       <st Contlex="QNT_">латкумшо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латкумыт</l> <stress>латку•мыт</stress>
+     <stg>
+       <st Contlex="KvK">латкумыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kolmetoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латныл</l> <stress>латны•л</stress>
+     <stg>
+       <st Contlex="KvK">латныл</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>neljätoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латнылымше</l> <stress>латны•лымше</stress>
+     <stg>
+       <st Contlex="KvO">латнылымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>neljästoista KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латнылыт</l> <stress>латны•лыт</stress>
+     <stg>
+       <st Contlex="KvK">латнылыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>neljätoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латшым</l> <stress>латшы•м</stress>
+     <stg>
+       <st Contlex="KvK">латшым</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>seitsemäntoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латшымше</l> <stress>латшы•мше</stress>
+     <stg>
+       <st Contlex="KvO">латшымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>seitsemästoista KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">латшымыт</l> <stress>латшы•мыт</stress>
+     <stg>
+       <st Contlex="KvK">латшымыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>seitsemäntoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">лу</l> <stress>лу</stress>
+     <stg>
+       <st Contlex="KvK">лу</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kymmenen KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">лу-лучко</l> <stress>лу•-лу•чко</stress>
+     <stg>
+       <st Contlex="QNT_">лу•-лучко</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">лучке</l>
+     <stg>
+       <st Contlex="KvK">лучк%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>viisitoista KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">лучко</l> <stress>лу•чко</stress>
+     <stg>
+       <st Contlex="QNT_">лучко</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">лучкымше</l>
+     <stg>
+       <st Contlex="KvO">лучкымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>viidestoista KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">лучкымшо</l> <stress>лу•чкымшо</stress>
+     <stg>
+       <st Contlex="QNT_">лучкымшо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">луымше</l>
+     <stg>
+       <st Contlex="KvO">луымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kymmenes KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">луымшо</l> <stress>лу•ымшо</stress>
+     <stg>
+       <st Contlex="QNT_">луымшо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">миллиард</l> <stress>миллиа•рд</stress>
+     <stg>
+       <st Contlex="KvK">миллиард</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>miljardi KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">миллиардымше</l> <stress>миллиа•рдымше</stress>
+     <stg>
+       <st Contlex="QNT_">миллиардымше</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">миллион</l> <stress>миллио•н</stress>
+     <stg>
+       <st Contlex="KvK">миллион</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>miljoona KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">миллионымшо</l> <stress>миллио•нымшо</stress>
+     <stg>
+       <st Contlex="QNT_">миллионымшо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">ноль</l> <stress>ноль</stress>
+     <stg>
+       <st Contlex="KvK">ноль</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>nolla KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">ныл</l> <stress>ныл</stress>
+     <stg>
+       <st Contlex="KvK">ныл</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>neljä KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">нылле</l> <stress>ны•лле</stress>
+     <stg>
+       <st Contlex="KvK">нылл%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>neljäkymmentä KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">ныллымше</l> <stress>ны•ллымше</stress>
+     <stg>
+       <st Contlex="KvK">ныллымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>neljäkymmentä KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">нылшӱде</l>
+     <stg>
+       <st Contlex="KvK">нылшӱд%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>neljäsataa KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">нылшӱдымше</l>
+     <stg>
+       <st Contlex="KvO">нылшӱдымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>neljässadas KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">нылшӱдымшӧ</l> <stress>ны•лшӱдымшӧ</stress>
+     <stg>
+       <st Contlex="QNT_">нылшӱдымшӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">нылшӱдӧ</l> <stress>ны•лшӱдӧ</stress>
+     <stg>
+       <st Contlex="QNT_">нылшӱдӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">нылымше</l>
+     <stg>
+       <st Contlex="KvMurt">нылымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>neljännes KvMurt</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">нылыт</l> <stress>нылыт</stress>
+     <stg>
+       <st Contlex="KvK">нылыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>neljä KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">первый</l> <stress>пе•рвый</stress>
+     <stg>
+       <st Contlex="KvO">первый</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>ensimmäinen KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">тесте</l>
+     <stg>
+       <st Contlex="Kv-a/e">тесте</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>kymmenen KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">триллион</l> <stress>триллио•н</stress>
+     <stg>
+       <st Contlex="KvK">триллион</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>triljoona KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">тӱжем</l> <stress>тӱже•м</stress>
+     <stg>
+       <st Contlex="KvK">тӱжем</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>tuhat KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">тӱжемше</l> <stress>тӱже•мше</stress>
+     <stg>
+       <st Contlex="KvO">тӱжемш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>tuhannes KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">шым</l> <stress>шы•м</stress>
+     <stg>
+       <st Contlex="KvK">шым</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>seitsemän KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">шымле</l> <stress>шы•мле</stress>
+     <stg>
+       <st Contlex="QNT_">шымле</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">шымлу</l>
+     <stg>
+       <st Contlex="KvK">шымлу</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>seitsemänkymmentä KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">шымлуымше</l>
+     <stg>
+       <st Contlex="KvO">шымлуымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>seitsemäskymmenes KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">шымлымше</l> <stress>шы•млымше</stress>
+     <stg>
+       <st Contlex="QNT_">шымлымше</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">шымше</l> <stress>шы•мше</stress>
+     <stg>
+       <st Contlex="KvO">шымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>seitsemäs KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">шымшӱде</l>
+     <stg>
+       <st Contlex="KvK">шымшӱд%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>seitsemänsataa KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">шымшӱдымше</l>
+     <stg>
+       <st Contlex="KvO">шымшӱдымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>seitsemässadas KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">шымшӱдымшӧ</l> <stress>шы•мшӱдымшӧ</stress>
+     <stg>
+       <st Contlex="QNT_">шымшӱдымшӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">шымшӱдӧ</l> <stress>шы•мшӱдӧ</stress>
+     <stg>
+       <st Contlex="QNT_">шымшӱдӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">шымыт</l> <stress>шы•мыт</stress>
+     <stg>
+       <st Contlex="KvK">шымыт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>seitsemän KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">шӱде</l>
+     <stg>
+       <st Contlex="KvK">шӱд%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>sata KvK</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="2">
+   <lg>
+     <l pos="Num">шӱдымше</l>
+     <stg>
+       <st Contlex="KvO">шӱдымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="eng"> <t/>
+     </tg>
+     <tg xml:lang="fin">
+       <t>sadas KvO</t>
+     </tg>
+     <m>
+     </m>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">шӱдымшӧ</l> <stress>шӱ•дымшӧ</stress>
+     <stg>
+       <st Contlex="QNT_">шӱдымшӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e order="1">
+   <lg>
+     <l pos="Num">шӱдӧ</l> <stress>шӱ•дӧ</stress>
+     <stg>
+       <st Contlex="QNT_">шӱдӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Num"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+</r> 

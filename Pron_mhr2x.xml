@@ -1,0 +1,6847 @@
+<?xml version="1.0" encoding="UTF-8"?> <r xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:hfp="http://www.w3.org/2001/XMLSchema-hasFacetAndProperty" xmlns:fn="http://www.w3.org/2005/02/xpath-functions" xsi:noNamespaceSchemaLocation="../../../../../gtcore/schemas/fiu-dict-schema.xsd" xml:lang="mhr">
+<e>
+   <lg>
+     <l pos="Pron">ала-куде</l>
+     <stg>
+       <st Contlex="PronInd">ала-куд%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>joku, jompikumpi</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-кудо</l> <stress>ала-ку•до</stress>
+     <stg>
+       <st Contlex="PRON_">ала-кудо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-кузе</l> <stress>ала-кузе•</stress>
+     <stg>
+       <st Contlex="PronInd">ала-кузе</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jotenkin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-кунам</l> <stress>ала-куна•м</stress>
+     <stg>
+       <st Contlex="PronInd">ала-кунам</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>joskus, jolloinkin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-кунамак</l> <stress>ала-куна•мак</stress>
+     <stg>
+       <st Contlex="PRON_">ала-кунамак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-кунамсе</l> <stress>ала-куна•мсе</stress>
+     <stg>
+       <st Contlex="PRON_">ала-кунамсе</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-кунамсек</l> <stress>ала-куна•мсек</stress>
+     <stg>
+       <st Contlex="PronInd">ала-кунамсек</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jostakin alkaen</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-кунар</l> <stress>ала-куна•р</stress>
+     <stg>
+       <st Contlex="PronInd">ала-кунар</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jonkin verran, muutama</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-кушак</l> <stress>ала-куша•к</stress>
+     <stg>
+       <st Contlex="PRON_">ала-кушак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-кушан</l> <stress>ала-куша•н</stress>
+     <stg>
+       <st Contlex="PronInd">ала-кушан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jossakin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-кушеч</l> <stress>ала-куше•ч</stress>
+     <stg>
+       <st Contlex="PronInd">ала-кушеч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jostakin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-кушке</l>
+     <stg>
+       <st Contlex="PronInd">ала-кушк%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>johonkin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-кушкен</l> <stress>ала-ку•шке•н</stress>
+     <stg>
+       <st Contlex="PRON_">ала-ку•шкен</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-кушко</l> <stress>ала-ку•шко</stress>
+     <stg>
+       <st Contlex="PRON_">ала-кушко</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-куште</l>
+     <stg>
+       <st Contlex="PronInd">ала-кушт%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jossakin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-кушто</l> <stress>ала-ку•што</stress>
+     <stg>
+       <st Contlex="PRON_">ала-кушто</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-куҥге</l> <stress>ала-куҥге•</stress>
+     <stg>
+       <st Contlex="PRON_">ала-куҥге</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-кӧ</l> <stress>ала-кӧ•</stress>
+     <stg>
+       <st Contlex="PronInd">ала-кӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>joku, eräs</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-мо</l> <stress>ала-мо•</stress>
+     <stg>
+       <st Contlex="PronInd">ала-мо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jokin, eräs</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-могай</l>
+     <stg>
+       <st Contlex="PronInd">ала-могай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jonkinlainen, eräänlainen</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-могайе</l>
+     <stg>
+       <st Contlex="PronInd">ала-могай%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jonkinlainen, eräänlainen</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-могудеште</l> <stress>ала-могуде•ште</stress>
+     <stg>
+       <st Contlex="PronInd">ала-могудешт%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jolloinkin, (yht)äkkiä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-молан</l> <stress>ала-мола•н</stress>
+     <stg>
+       <st Contlex="PronInd">ала-молан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jostakin syystä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-мочол</l> <stress>ала-мочо•л</stress>
+     <stg>
+       <st Contlex="PRON_">ала-мочол</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-мызар</l> <stress>ала-мыза•р</stress>
+     <stg>
+       <st Contlex="PRON_">ала-мызар</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-мыняр</l> <stress>ала-мыня•р</stress>
+     <stg>
+       <st Contlex="PronInd">ала-мыняр</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jonkin verran, muutama</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ала-мыняре</l> <stress>ала-мыня•ре</stress>
+     <stg>
+       <st Contlex="PRON_">ала-мыняре</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ваш</l>
+     <stg>
+       <st Contlex="PronRes">ваш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>toinen toisen, toinen toista, toisiaan (jne.) PronRes</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">вес</l> <stress>вес</stress>
+     <stg>
+       <st Contlex="PronInd">вес</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>toinen, muu</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">весе</l> <stress>ве•се</stress>
+     <stg>
+       <st Contlex="PronInd">вес%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>toinen, muu</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">вийге</l> <stress>вийге</stress>
+     <stg>
+       <st Contlex="PRON_">вийге</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">еда</l>
+     <stg>
+       <st Contlex="PronInd">еда</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>joka(inen)</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ик</l> <stress>ик</stress>
+     <stg>
+       <st Contlex="PronInd">ик</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>eräs</t>
+       <t>ainoa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">икме</l>
+     <stg>
+       <st Contlex="PronInd">икм%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jokin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">икмо</l> <stress>икмо•</stress>
+     <stg>
+       <st Contlex="PRON_">икмо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">икмочол</l> <stress>икмочо•л</stress>
+     <stg>
+       <st Contlex="PRON_">икмочол</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">икмыняр</l> <stress>икмыня•р</stress>
+     <stg>
+       <st Contlex="PronInd">икмыняр</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>muutama</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж</l> <stress>икта•ж</stress>
+     <stg>
+       <st Contlex="PronInd">иктаж</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>joku, jokin, eräs</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-кудо</l> <stress>икта•ж-ку•до</stress>
+     <stg>
+       <st Contlex="PRON_">икта•ж-кудо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-кузе</l> <stress>икта•ж-кузе•</stress>
+     <stg>
+       <st Contlex="PRON_">икта•ж-кузе</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-кунам</l> <stress>икта•ж-куна•м</stress>
+     <stg>
+       <st Contlex="PRON_">икта•ж-кунам</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-кунар</l> <stress>икта•ж-куна•р</stress>
+     <stg>
+       <st Contlex="PRON_">икта•ж-кунар</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-кушан</l> <stress>икта•ж-куша•н</stress>
+     <stg>
+       <st Contlex="PRON_">икта•ж-кушан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-кушеч</l> <stress>икта•ж-куше•ч</stress>
+     <stg>
+       <st Contlex="PRON_">икта•ж-кушеч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-кушко</l> <stress>икта•ж-ку•шко</stress>
+     <stg>
+       <st Contlex="PRON_">икта•ж-кушко</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-кушто</l> <stress>икта•ж-ку•што</stress>
+     <stg>
+       <st Contlex="PRON_">икта•ж-кушто</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-кӧ</l> <stress>икта•ж-кӧ•</stress>
+     <stg>
+       <st Contlex="PRON_">икта•ж-кӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-кӱшан</l>
+     <stg>
+       <st Contlex="PronInd">иктаж-кӱшан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jossakin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-кӱшеч</l>
+     <stg>
+       <st Contlex="PronInd">иктаж-кӱшеч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jostakin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-кӱшке</l>
+     <stg>
+       <st Contlex="PronInd">иктаж-кӱшк%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>johonkin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-кӱште</l>
+     <stg>
+       <st Contlex="PronInd">иктаж-кӱшт%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jossakin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-мо</l> <stress>икта•ж-мо•</stress>
+     <stg>
+       <st Contlex="PRON_">икта•ж-мо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-могай</l> <stress>икта•ж-мога•й</stress>
+     <stg>
+       <st Contlex="PRON_">икта•ж-могай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-могайе</l>
+     <stg>
+       <st Contlex="PronInd">иктаж-могай%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jonkinlainen</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-молан</l> <stress>икта•ж-мола•н</stress>
+     <stg>
+       <st Contlex="PRON_">икта•ж-молан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-мыняр</l> <stress>икта•ж-мыня•р</stress>
+     <stg>
+       <st Contlex="PRON_">икта•ж-мыняр</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-мыняре</l> <stress>икта•ж-мыня•ре</stress>
+     <stg>
+       <st Contlex="PRON_">икта•ж-мыняре</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаж-семын</l> <stress>икта•ж-се•мын</stress>
+     <stg>
+       <st Contlex="PRON_">икта•ж-семын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктаже</l> <stress>икта•же</stress>
+     <stg>
+       <st Contlex="PronInd">иктаж%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>joku, jokin, eräs</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктат</l> <stress>икта•т</stress>
+     <stg>
+       <st Contlex="PronInd">иктат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(ei) kukaan</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">икте</l> <stress>и•кте</stress>
+     <stg>
+       <st Contlex="PronInd">икт%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>eräs; sama</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">икте-весе</l> <stress>и•кте-ве•се</stress>
+     <stg>
+       <st Contlex="PRON_">и•кте-весе</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">иктыже</l> <stress>и•ктыже</stress>
+     <stg>
+       <st Contlex="PRON_">иктыже</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кажне</l> <stress>ка•жне</stress>
+     <stg>
+       <st Contlex="PronInd">кажн%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>joka(inen)</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">керек-куде</l>
+     <stg>
+       <st Contlex="PronInd">керек-куд%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>kuka/mikä tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">керек-кудо</l> <stress>керек-ку•до</stress>
+     <stg>
+       <st Contlex="PRON_">керек-кудо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">керек-кузе</l> <stress>керек-кузе•</stress>
+     <stg>
+       <st Contlex="PronInd">керек-кузе</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>miten tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">керек-кунам</l> <stress>керек-куна•м</stress>
+     <stg>
+       <st Contlex="PronInd">керек-кунам</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>milloin tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">керек-кунамат</l> <stress>кере•к-кунама•т</stress>
+     <stg>
+       <st Contlex="PRON_">кере•к-кунамат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">керек-кунар</l> <stress>керек-куна•р</stress>
+     <stg>
+       <st Contlex="PRON_">керек-кунар</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">керек-кушан</l> <stress>керек-куша•н</stress>
+     <stg>
+       <st Contlex="PronInd">керек-кушан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>missä tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">керек-кушеч</l> <stress>керек-куше•ч</stress>
+     <stg>
+       <st Contlex="PronInd">керек-кушеч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>mista tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">керек-кушечын</l> <stress>кере•к-куше•чын</stress>
+     <stg>
+       <st Contlex="PRON_">кере•к-кушечын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">керек-кушке</l>
+     <stg>
+       <st Contlex="PronInd">керек-кушк%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>mihin tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">керек-кушко</l> <stress>керек-ку•шко</stress>
+     <stg>
+       <st Contlex="PRON_">керек-кушко</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">керек-куште</l>
+     <stg>
+       <st Contlex="PronInd">керек-кушт%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>missä tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">керек-кушто</l> <stress>керек-ку•што</stress>
+     <stg>
+       <st Contlex="PRON_">керек-кушто</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">керек-кӧ</l> <stress>керек-кӧ•</stress>
+     <stg>
+       <st Contlex="PronInd">керек-кӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>kuka tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">керек-мо</l> <stress>керек-мо•</stress>
+     <stg>
+       <st Contlex="PronInd">керек-мо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>mikä tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">керек-могай</l> <stress>керек-мога•й</stress>
+     <stg>
+       <st Contlex="PRON_">керек-могай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">керек-мыняр</l> <stress>керек-мыня•р</stress>
+     <stg>
+       <st Contlex="PronInd">керек-мыняр</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>miten paljon tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">керек-мыняре</l> <stress>керек-мыня•ре</stress>
+     <stg>
+       <st Contlex="PRON_">керек-мыняре</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-куде</l>
+     <stg>
+       <st Contlex="PronInd">кеч-куд%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>kuka/mikä tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-кудо</l> <stress>кеч-ку•до</stress>
+     <stg>
+       <st Contlex="PRON_">кеч-кудо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-кузе</l> <stress>кеч-кузе•</stress>
+     <stg>
+       <st Contlex="PronInd">кеч-кузе</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>miten tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-кузе-гынат</l>
+     <stg>
+       <st Contlex="PronInd">кеч-кузе-гынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>miten tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-кунам</l> <stress>кеч-куна•м</stress>
+     <stg>
+       <st Contlex="PronInd">кеч-кунам</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>milloin tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-кунамат</l> <stress>кеч-кунама•т</stress>
+     <stg>
+       <st Contlex="PRON_">кеч-кунамат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-кунар</l> <stress>кеч-куна•р</stress>
+     <stg>
+       <st Contlex="PRON_">кеч-кунар</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-куш</l> <stress>кеч-ку•ш</stress>
+     <stg>
+       <st Contlex="PRON_">кеч-куш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-кушан</l> <stress>кеч-куша•н</stress>
+     <stg>
+       <st Contlex="PronInd">кеч-кушан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>missä tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-кушеч</l> <stress>кеч-куше•ч</stress>
+     <stg>
+       <st Contlex="PronInd">кеч-кушеч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>mistä tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-кушечын</l> <stress>кеч-куше•чын</stress>
+     <stg>
+       <st Contlex="PronInd">кеч-кушечын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>mistä tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-кушке</l>
+     <stg>
+       <st Contlex="PronInd">кеч-кушк%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>mihin tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-кушко</l> <stress>кеч-ку•шко</stress>
+     <stg>
+       <st Contlex="PRON_">кеч-кушко</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-куште</l>
+     <stg>
+       <st Contlex="PronInd">кеч-кушт%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>missä tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-кушто</l> <stress>кеч-ку•што</stress>
+     <stg>
+       <st Contlex="PRON_">кеч-кушто</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-кӧ</l> <stress>кеч-кӧ•</stress>
+     <stg>
+       <st Contlex="PronInd">кеч-кӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>kuka tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-мо</l> <stress>кеч-мо•</stress>
+     <stg>
+       <st Contlex="PronInd">кеч-мо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>mikä tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-могай</l> <stress>кеч-мога•й</stress>
+     <stg>
+       <st Contlex="PronInd">кеч-могай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>millainen tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-молан</l> <stress>кеч-мола•н</stress>
+     <stg>
+       <st Contlex="PRON_">кеч-молан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-мыняр</l> <stress>кеч-мыня•р</stress>
+     <stg>
+       <st Contlex="PronInd">кеч-мыняр</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>miten paljon tahansa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кеч-мыняре</l> <stress>кеч-мыня•ре</stress>
+     <stg>
+       <st Contlex="PRON_">кеч-мыняре</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">когынек</l>
+     <stg>
+       <st Contlex="PronInd">когынек</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>molemmat</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">коктынат</l>
+     <stg>
+       <st Contlex="PronInd">коктынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>molemmat</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кувеке</l>
+     <stg>
+       <st Contlex="PronIR">кувек%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>mihin, johon</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кувелне</l>
+     <stg>
+       <st Contlex="PronIR">кувелн%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>missä, jossa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кувеч</l> <stress>куве•ч</stress>
+     <stg>
+       <st Contlex="PronIR">кувеч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>mistä, josta</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кувечын</l> <stress>куве•чын</stress>
+     <stg>
+       <st Contlex="PronIR">кувечын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>mistä, josta</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">куде</l>
+     <stg>
+       <st Contlex="PronInd">куд%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>??talo</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кудо</l> <stress>ку•до</stress>
+     <stg>
+       <st Contlex="PRON_">кудо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кудо-гынат</l> <stress>ку•до-гына•т</stress>
+     <stg>
+       <st Contlex="PRON_">ку•до-гынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кудо-икте</l> <stress>ку•до-и•кте</stress>
+     <stg>
+       <st Contlex="PRON_">ку•до-икте</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кудо-тиде</l> <stress>кудо-тиде</stress>
+     <stg>
+       <st Contlex="PRON_">кудо-тиде</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кузат-тугат</l> <stress>кузат-тугат</stress>
+     <stg>
+       <st Contlex="PRON_">кузат-тугат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кузе</l> <stress>кузе•</stress>
+     <stg>
+       <st Contlex="PronIR">кузе</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>miten</t>
+       <t>kuten</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кузе-гынат</l> <stress>кузе•-гына•т</stress>
+     <stg>
+       <st Contlex="PRON_">кузе•-гынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кузеже-можо</l> <stress>кузе•же-мо•жо</stress>
+     <stg>
+       <st Contlex="PRON_">кузе•же-можо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кузерак</l>
+     <stg>
+       <st Contlex="PronIR">кузерак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>miten</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кунам</l> <stress>куна•м</stress>
+     <stg>
+       <st Contlex="PronIR">кунам</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>milloin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кунам-гынат</l> <stress>куна•м-гына•т</stress>
+     <stg>
+       <st Contlex="PRON_">куна•м-гынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кунам-тунам</l> <stress>куна•м-туна•м</stress>
+     <stg>
+       <st Contlex="PRON_">куна•м-тунам</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кунамлан</l> <stress>кунамла•н</stress>
+     <stg>
+       <st Contlex="PronInd">кунамлан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>johonkin (aikaan) mennessä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кунамсе</l> <stress>куна•мсе</stress>
+     <stg>
+       <st Contlex="PRON_">кунамсе</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кунамсек</l> <stress>кунамсе•к</stress>
+     <stg>
+       <st Contlex="PronInd">кунамсек</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jostakin (ajasta) lähtien</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кунар</l> <stress>куна•р</stress>
+     <stg>
+       <st Contlex="PronIR">кунар</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>kuinka paljon</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кунар-гынат</l> <stress>куна•р-гына•т</stress>
+     <stg>
+       <st Contlex="PRON_">куна•р-гынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кунараш</l> <stress>куна•раш</stress>
+     <stg>
+       <st Contlex="PRON_">кунараш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кунаре</l> <stress>куна•ре</stress>
+     <stg>
+       <st Contlex="PronIR">кунар%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>kuinka paljon</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кунарын</l> <stress>куна•рын</stress>
+     <stg>
+       <st Contlex="PRON_">кунарын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кусе</l>
+     <stg>
+       <st Contlex="PronIR">кус%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>mistä?</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кусо</l> <stress>ку•со</stress>
+     <stg>
+       <st Contlex="PRON_">кусо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">куш</l> <stress>куш</stress>
+     <stg>
+       <st Contlex="PronIR">куш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>mihin?</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кушак</l> <stress>куша•к</stress>
+     <stg>
+       <st Contlex="PronIR">кушак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>mihin?</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кушан</l> <stress>куша•н</stress>
+     <stg>
+       <st Contlex="PronIR">кушан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>missä?, mihin?</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кушан-гынат</l> <stress>куша•н-гына•т</stress>
+     <stg>
+       <st Contlex="PRON_">куша•н-гынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кушеч</l> <stress>куше•ч</stress>
+     <stg>
+       <st Contlex="PronIR">кушеч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>mistä?</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кушеч-гынат</l> <stress>куше•ч-гына•т</stress>
+     <stg>
+       <st Contlex="PRON_">куше•ч-гынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кушечын</l> <stress>куше•чын</stress>
+     <stg>
+       <st Contlex="PronIR">кушечын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>mistä?</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кушке</l>
+     <stg>
+       <st Contlex="PronIR">кушк%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>mihin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кушкен</l> <stress>ку•шке•н</stress>
+     <stg>
+       <st Contlex="PRON_">ку•шкен</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кушко</l> <stress>ку•шко</stress>
+     <stg>
+       <st Contlex="PRON_">кушко</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кушко-гынат</l> <stress>ку•шко-гына•т</stress>
+     <stg>
+       <st Contlex="PRON_">ку•шко-гынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кушко-кушко</l> <stress>ку•шко-ку•шко</stress>
+     <stg>
+       <st Contlex="PRON_">ку•шко-кушко</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кушкыла</l>
+     <stg>
+       <st Contlex="PronInd">кушкыла</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>minne päin?</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">куште</l>
+     <stg>
+       <st Contlex="PronIR">кушт%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>missä?</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кушто</l> <stress>ку•што</stress>
+     <stg>
+       <st Contlex="PRON_">кушто</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кушто-гынат</l> <stress>ку•што-гына•т</stress>
+     <stg>
+       <st Contlex="PRON_">ку•што-гынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кушто-кушто</l> <stress>ку•што-ку•што</stress>
+     <stg>
+       <st Contlex="PRON_">ку•што-кушто</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кӧ</l> <stress>кӧ</stress>
+     <stg>
+       <st Contlex="PRON-INTERR/REL_">кӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>kuka, ketkä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кӧ-гынат</l> <stress>кӧ-гына•т</stress>
+     <stg>
+       <st Contlex="PronInd">кӧ-гынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>joku</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кӧ-кӧ</l> <stress>кӧ-кӧ</stress>
+     <stg>
+       <st Contlex="PRON_">кӧ-кӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кӧжӧ-можо</l> <stress>кӧ•жӧ-мо•жо</stress>
+     <stg>
+       <st Contlex="PRON_">кӧ•жӧ-можо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кӧлан</l>
+     <stg>
+       <st Contlex="PronIR">кӧлан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>kenelle, keille</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кӧлан-гынат</l> <stress>кӧла•н-гына•т</stress>
+     <stg>
+       <st Contlex="PRON_">кӧла•н-гынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кӧм</l>
+     <stg>
+       <st Contlex="PronIR">кӧм</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ketä, keitä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кӧм-гынат</l>
+     <stg>
+       <st Contlex="PronInd">кӧм-гынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jotakuta, joitakuita</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кӧн</l>
+     <stg>
+       <st Contlex="PronIR">кӧн</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>kenen, keiden</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кӧн-гынат</l>
+     <stg>
+       <st Contlex="PronInd">кӧн-гынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jonkun, joidenkuiden</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">кӱса-кӱса</l>
+     <stg>
+       <st Contlex="PronRes">кӱса-кӱса</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>toisiaan PronRes</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ме</l> <stress>ме</stress>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>me</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мемнам</l>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>meitä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мемнан</l>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>meidän</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мо</l> <stress>мо</stress>
+     <stg>
+       <st Contlex="PRON-INTERR/REL_">мо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>mikä, mitä; -kO</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мо-гынат</l> <stress>мо-гына•т</stress>
+     <stg>
+       <st Contlex="PRON_">мо-гынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">могай</l> <stress>мога•й</stress>
+     <stg>
+       <st Contlex="PronIR">могай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>millainen</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">могай-гынат</l> <stress>мога•й-гына•т</stress>
+     <stg>
+       <st Contlex="PRON_">мога•й-гынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">могай-тугай</l> <stress>мога•й-туга•й</stress>
+     <stg>
+       <st Contlex="PRON_">мога•й-тугай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">могайе</l>
+     <stg>
+       <st Contlex="PronIR">могай%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>millainen</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">могудеште</l> <stress>могуде•ште</stress>
+     <stg>
+       <st Contlex="PronIR">могудешт%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>milloin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">могыч</l> <stress>мо•гыч</stress>
+     <stg>
+       <st Contlex="PronIR">могыч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>paljonko (maksaa)</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">молан-гынат</l> <stress>мола•н-гына•т</stress>
+     <stg>
+       <st Contlex="PRON_">мола•н-гынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">молгунам</l> <stress>молгуна•м</stress>
+     <stg>
+       <st Contlex="PRON_">молгунам</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">молгунамсе</l> <stress>молгуна•мсе</stress>
+     <stg>
+       <st Contlex="PRON_">молгунамсе</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">моле</l>
+     <stg>
+       <st Contlex="PronInd">мол%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>toinen, muu, loput</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">моло</l> <stress>мо•ло</stress>
+     <stg>
+       <st Contlex="PRON_">моло</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">молыла</l> <stress>молыла</stress>
+     <stg>
+       <st Contlex="PRON_">молыла</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мом</l>
+     <stg>
+       <st Contlex="PronIR">мом</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>mitä, minkä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мом-гынат</l> <stress>мом-гына•т</stress>
+     <stg>
+       <st Contlex="PronI">мом-гынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jotakin, jonkin PronI</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мон</l>
+     <stg>
+       <st Contlex="PRON-IR_">мон</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>minkä, millä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мон-гынат</l>
+     <stg>
+       <st Contlex="PronInd">мон-гынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>jonkin, jollakin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мочол</l> <stress>мочо•л</stress>
+     <stg>
+       <st Contlex="PRON_">мочол</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мочоле</l>
+     <stg>
+       <st Contlex="PronIR">мочол%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>kuinka monta?</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мочоло</l> <stress>мочо•ло</stress>
+     <stg>
+       <st Contlex="PRON_">мочоло</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мош</l> <stress>мош</stress>
+     <stg>
+       <st Contlex="PronIR">мош</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>kuinka paljolla?, paljonko (maksaa)?</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мый</l> <stress>мый</stress>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>minä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мыйым</l>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>minua, minut</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мыйын</l>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>minun</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мыйынлык</l> <stress>мы•йынлык</stress>
+     <stg>
+       <st Contlex="PRON_">мыйынлык</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мыланем</l>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>minulle</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мыланна</l>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>meille</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мыняр</l> <stress>мыня•р</stress>
+     <stg>
+       <st Contlex="PronIR">мыняр</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>kuinka paljon?</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мыняр-гынат</l> <stress>мыня•р-гына•т</stress>
+     <stg>
+       <st Contlex="PRON_">мыня•р-гынат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мыняре</l> <stress>мыня•ре</stress>
+     <stg>
+       <st Contlex="PronIR">мыняр%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>kuinka paljon?</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мынярымше</l> <stress>мыня•рымше</stress>
+     <stg>
+       <st Contlex="PronIR">мынярымш%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>monesko?</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">мынярын</l> <stress>мыня•рын</stress>
+     <stg>
+       <st Contlex="PRON_">мынярын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нигуде</l>
+     <stg>
+       <st Contlex="PronInd">нигуд%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ei kukaan</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нигудо</l> <stress>нигу•до</stress>
+     <stg>
+       <st Contlex="PRON_">нигудо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нигузе</l> <stress>нигузе•</stress>
+     <stg>
+       <st Contlex="PronInd">нигузе</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ei mitenkään</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нигунам</l> <stress>нигуна•м</stress>
+     <stg>
+       <st Contlex="PronInd">нигунам</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ei koskaan</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нигунамат</l>
+     <stg>
+       <st Contlex="PronInd">нигунамат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ei missään tapauksessa</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нигунар</l> <stress>нигуна•р</stress>
+     <stg>
+       <st Contlex="PRON_">нигунар</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нигунаре</l> <stress>нигуна•ре</stress>
+     <stg>
+       <st Contlex="PRON_">нигунаре</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нигуш</l> <stress>нигу•ш</stress>
+     <stg>
+       <st Contlex="PronInd">нигуш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ei mihinkään</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нигушан</l> <stress>нигуша•н</stress>
+     <stg>
+       <st Contlex="PronInd">нигушан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ei missään</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нигушеч</l> <stress>нигуше•ч</stress>
+     <stg>
+       <st Contlex="PronInd">нигушеч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ei mistään</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нигушечын</l> <stress>нигуше•чын</stress>
+     <stg>
+       <st Contlex="PronInd">нигушечын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ei mistään</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нигушке</l>
+     <stg>
+       <st Contlex="PronInd">нигушк%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ei mihinkään</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нигушко</l> <stress>нигу•шко</stress>
+     <stg>
+       <st Contlex="PRON_">нигушко</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нигушто</l> <stress>нигу•што</stress>
+     <stg>
+       <st Contlex="PronInd">нигушто</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ei missään</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нигӧ</l> <stress>нигӧ•</stress>
+     <stg>
+       <st Contlex="PronInd">нигӧ</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ei kukaan</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нимат</l>
+     <stg>
+       <st Contlex="PronInd">нимат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ei mikään, ei mitään</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нимо</l> <stress>нимо•</stress>
+     <stg>
+       <st Contlex="PronInd">нимо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ei mikään, ei mitään</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нимогай</l> <stress>нимога•й</stress>
+     <stg>
+       <st Contlex="PronInd">нимогай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ei minkäänlainen</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нимогайе</l>
+     <stg>
+       <st Contlex="PronInd">нимогай%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ei minkäänlainen</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нимолык</l> <stress>нимо•лык</stress>
+     <stg>
+       <st Contlex="PRON_">нимолык</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нимош</l> <stress>нимо•ш</stress>
+     <stg>
+       <st Contlex="PRON_">нимош</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нимыняр</l> <stress>нимыня•р</stress>
+     <stg>
+       <st Contlex="PronInd">нимыняр</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ei lainkaan</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нимыняре</l> <stress>нимыня•ре</stress>
+     <stg>
+       <st Contlex="PronInd">нимыняр%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ei lainkaan</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нине</l>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ne</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нуне</l>
+     <stg>
+       <st Contlex="PronDem">нун%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>ne</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">нуно</l> <stress>ну•но</stress>
+     <stg>
+       <st Contlex="PRON_">нуно</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">саде</l> <stress>са•де</stress>
+     <stg>
+       <st Contlex="PronDem">сад%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>tuo, se</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">садлан</l> <stress>садла•н</stress>
+     <stg>
+       <st Contlex="PronDem">садлан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>siksi</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">садыгак</l> <stress>садыга•к</stress>
+     <stg>
+       <st Contlex="PRON_">садыгак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">санден</l> <stress>санде•н</stress>
+     <stg>
+       <st Contlex="PRON_">санден</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">сандене</l>
+     <stg>
+       <st Contlex="PronDem">санден%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>siksi</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">седе</l> <stress>се•де</stress>
+     <stg>
+       <st Contlex="PronDem">сед%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>tämä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">седыге</l> <stress>седыге</stress>
+     <stg>
+       <st Contlex="PRON_">седыге</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">те</l> <stress>те</stress>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>te</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тембал</l>
+     <stg>
+       <st Contlex="PronDem">тембал</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>tämä (lähin)</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тендам</l>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>teitä, teidät</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тендан</l>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>teidän</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тидат-тудат</l> <stress>тида•т-туда•т</stress>
+     <stg>
+       <st Contlex="PRON_">тида•т-тудат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тиде-тудо</l> <stress>ти•де-ту•до</stress>
+     <stg>
+       <st Contlex="PRON_">ти•де-тудо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тидӱлан</l>
+     <stg>
+       <st Contlex="PronDem">тидӱлан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>tälle</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">то</l>
+     <stg>
+       <st Contlex="PronInd">то</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>to ... to milloin ... milloin; kuka ... kuka</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ту</l> <stress>ту</stress>
+     <stg>
+       <st Contlex="PRON_">ту</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тувек</l> <stress>туве•к</stress>
+     <stg>
+       <st Contlex="PRON_">тувек</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тувелан</l> <stress>тувела•н</stress>
+     <stg>
+       <st Contlex="PRON_">тувелан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тувеч</l> <stress>туве•ч</stress>
+     <stg>
+       <st Contlex="PRON_">тувеч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тувечын</l> <stress>туве•чын</stress>
+     <stg>
+       <st Contlex="PRON_">тувечын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тугай</l> <stress>туга•й</stress>
+     <stg>
+       <st Contlex="N_">тугай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>sellainen, tuollainen</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тугай-тугай</l> <stress>туга•й-туга•й</stress>
+     <stg>
+       <st Contlex="PRON_">туга•й-тугай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тугак</l> <stress>туга•к</stress>
+     <stg>
+       <st Contlex="PRON_">тугак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тугане</l> <stress>туга•не</stress>
+     <stg>
+       <st Contlex="PronDem">туган%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>sellainen, tuollainen</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">туге</l> <stress>туге•</stress>
+     <stg>
+       <st Contlex="PronDem">туге</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>siten, niin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тугодсо</l> <stress>туго•дсо</stress>
+     <stg>
+       <st Contlex="PRON_">тугодсо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тугодым</l> <stress>туго•дым</stress>
+     <stg>
+       <st Contlex="PRON_">тугодым</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тугудештак</l> <stress>тугудештак</stress>
+     <stg>
+       <st Contlex="PRON_">тугудештак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тугудеште</l> <stress>тугуде•ште</stress>
+     <stg>
+       <st Contlex="PRON_">тугудеште</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тугутлаште</l> <stress>тугутла•ште</stress>
+     <stg>
+       <st Contlex="PRON_">тугутлаште</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">туде</l>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>hän</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тудлан</l>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>hänelle</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тудо</l> <stress>ту•до</stress>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>hän</t>
+       <t>tämä</t>
+       <t>se</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тудыже</l>
+     <stg>
+       <st Contlex="PronDem">тудыж%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>se (tunnetuista), tuo</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тудым</l>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>sitä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тудын</l>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>sen</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тудычын</l> <stress>тудычын</stress>
+     <stg>
+       <st Contlex="PRON_">тудычын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тулеч</l> <stress>туле•ч</stress>
+     <stg>
+       <st Contlex="PRON_">тулеч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тумарте</l> <stress>тума•рте</stress>
+     <stg>
+       <st Contlex="PRON_">тумарте</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тунам</l> <stress>туна•м</stress>
+     <stg>
+       <st Contlex="PronDem">тунам</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>silloin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тунамеш</l> <stress>тунаме•ш</stress>
+     <stg>
+       <st Contlex="PRON_">тунамеш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тунамлан</l> <stress>туна•мла•н</stress>
+     <stg>
+       <st Contlex="PRON_">туна•млан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тунамсе</l> <stress>туна•мсе</stress>
+     <stg>
+       <st Contlex="PRON_">тунамсе</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тунамсек</l> <stress>тунамсе•к</stress>
+     <stg>
+       <st Contlex="PRON_">тунамсек</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тунамсыла</l> <stress>туна•мсыла</stress>
+     <stg>
+       <st Contlex="PRON_">тунамсыла</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тунар</l> <stress>туна•р</stress>
+     <stg>
+       <st Contlex="PronDem">тунар</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>niin/näin paljon; (mitä...) sitä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тунаре</l> <stress>туна•ре</stress>
+     <stg>
+       <st Contlex="PronDem">тунар%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>niin/näin paljon; (mitä...) sitä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тусо</l> <stress>ту•со</stress>
+     <stg>
+       <st Contlex="PRON_">тусо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">туш</l> <stress>туш</stress>
+     <stg>
+       <st Contlex="PronDem">туш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>sinne</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тушагын</l> <stress>тушагын</stress>
+     <stg>
+       <st Contlex="PRON_">тушагын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тушагынак</l> <stress>тушагынак</stress>
+     <stg>
+       <st Contlex="PRON_">тушагынак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тушак</l>
+     <stg>
+       <st Contlex="PronDem">тушак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>sinne</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тушакак</l> <stress>тушакак</stress>
+     <stg>
+       <st Contlex="PRON_">тушакак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тушан</l> <stress>туша•н</stress>
+     <stg>
+       <st Contlex="PronDem">тушан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>siellä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тушанак</l> <stress>тушанак</stress>
+     <stg>
+       <st Contlex="PRON_">тушанак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тушеч</l> <stress>туше•ч</stress>
+     <stg>
+       <st Contlex="PronDem">тушеч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>tuolta, sieltä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тушечын</l> <stress>туше•чын</stress>
+     <stg>
+       <st Contlex="PronDem">тушечын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>tuolta, sieltä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тушке</l>
+     <stg>
+       <st Contlex="PronDem">тушк%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>sinne</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тушко</l> <stress>ту•шко</stress>
+     <stg>
+       <st Contlex="PRON_">тушко</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">туште</l>
+     <stg>
+       <st Contlex="PronDem">тушт%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>siinä, siellä, tuolla</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">ты</l> <stress>ты</stress>
+     <stg>
+       <st Contlex="PronDem">ты</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>tämä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тывек</l> <stress>тыве•к</stress>
+     <stg>
+       <st Contlex="PRON_">тывек</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тывелан</l> <stress>тыве•ла•н</stress>
+     <stg>
+       <st Contlex="PRON_">тыве•лан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тывеч</l> <stress>тыве•ч</stress>
+     <stg>
+       <st Contlex="PRON_">тывеч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тывеч-тувеч</l> <stress>тыве•ч-туве•ч</stress>
+     <stg>
+       <st Contlex="PRON_">тыве•ч-тувеч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тывечын</l> <stress>тыве•чын</stress>
+     <stg>
+       <st Contlex="PRON_">тывечын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыгай</l> <stress>тыга•й</stress>
+     <stg>
+       <st Contlex="PronDem">тыгай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>tällainen, sellainen</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыгай-тугай</l> <stress>тыга•й-туга•й</stress>
+     <stg>
+       <st Contlex="PRON_">тыга•й-тугай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыгак</l> <stress>тыга•к</stress>
+     <stg>
+       <st Contlex="PRON_">тыгак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыгакат</l> <stress>тыгака•т</stress>
+     <stg>
+       <st Contlex="PRON_">тыгакат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыгане</l> <stress>тыга•не</stress>
+     <stg>
+       <st Contlex="PronDem">тыган%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>tälläinen, sellainen</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыгат</l>
+     <stg>
+       <st Contlex="PronDem">тыгат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>niinkin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыгат-тугат</l> <stress>тыга•т-туга•т</stress>
+     <stg>
+       <st Contlex="PRON_">тыга•т-тугат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыге-туге</l> <stress>тыге•-туге•</stress>
+     <stg>
+       <st Contlex="PRON_">тыге•-туге</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыгеракын</l> <stress>тыгера•кын</stress>
+     <stg>
+       <st Contlex="PRON_">тыгеракын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыглай</l> <stress>тыгла•й</stress>
+     <stg>
+       <st Contlex="PRON_">тыглай</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыгодсо</l> <stress>тыго•дсо</stress>
+     <stg>
+       <st Contlex="PRON_">тыгодсо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыгодым</l> <stress>тыго•дым</stress>
+     <stg>
+       <st Contlex="PRON_">тыгодым</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыгодымак</l> <stress>тыго•дымак</stress>
+     <stg>
+       <st Contlex="PRON_">тыгодымак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыгудеште</l> <stress>тыгуде•ште</stress>
+     <stg>
+       <st Contlex="PRON_">тыгудеште</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыгутлаште</l> <stress>тыгутла•ште</stress>
+     <stg>
+       <st Contlex="PRON_">тыгутлаште</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыжак-тужак</l> <stress>тыжак-тужак</stress>
+     <stg>
+       <st Contlex="PRON_">тыжак-тужак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тый</l> <stress>тый</stress>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>sinä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыйынлык</l> <stress>ты•йынлык</stress>
+     <stg>
+       <st Contlex="PRON_">тыйынлык</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыланда</l>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>teille</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыланет</l>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>sinulle</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тылат</l>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>sinulle</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тылеч</l> <stress>тыле•ч</stress>
+     <stg>
+       <st Contlex="PronDem">тылеч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>tämän, tätä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тымарсек</l> <stress>тымарсе•к</stress>
+     <stg>
+       <st Contlex="PRON_">тымарсек</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тымарте</l> <stress>тыма•рте</stress>
+     <stg>
+       <st Contlex="PRON_">тымарте</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тымартен</l> <stress>тымарте•н</stress>
+     <stg>
+       <st Contlex="PRON_">тымартен</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тынар</l> <stress>тына•р</stress>
+     <stg>
+       <st Contlex="PronDem">тынар</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>näin/niin paljon</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тынарак</l>
+     <stg>
+       <st Contlex="PronDem">тынарак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>yhtä paljon</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тынаре</l> <stress>тына•ре</stress>
+     <stg>
+       <st Contlex="PronDem">тынар%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>näin/niin paljon</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тысе</l> <stress>ты•се</stress>
+     <stg>
+       <st Contlex="PRON_">тысе</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыш</l> <stress>тыш</stress>
+     <stg>
+       <st Contlex="PronDem">тыш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>tänne, tähän</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыш-туш</l> <stress>тыш-туш</stress>
+     <stg>
+       <st Contlex="PRON_">тыш-туш</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тышак</l> <stress>тыша•к</stress>
+     <stg>
+       <st Contlex="PronDem">тышак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>tässä, täällä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тышакын</l> <stress>тыша•кын</stress>
+     <stg>
+       <st Contlex="PRON_">тышакын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тышан</l> <stress>тыша•н</stress>
+     <stg>
+       <st Contlex="PronDem">тышан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>tässä, täällä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тышан-тушан</l> <stress>тыша•н-туша•н</stress>
+     <stg>
+       <st Contlex="PRON_">тыша•н-тушан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тышеч</l> <stress>тыше•ч</stress>
+     <stg>
+       <st Contlex="PronDem">тышеч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>täältä, tästä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тышеч-тушеч</l> <stress>тыше•ч-туше•ч</stress>
+     <stg>
+       <st Contlex="PRON_">тыше•ч-тушеч</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тышечын</l> <stress>тыше•чын</stress>
+     <stg>
+       <st Contlex="PronDem">тышечын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>täältä, tästä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тышкат-тушкат</l> <stress>тышка•т-тушка•т</stress>
+     <stg>
+       <st Contlex="PRON_">тышка•т-тушкат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тышке</l> <stress>ты•шке</stress>
+     <stg>
+       <st Contlex="PronDem">тышк%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>tänne, tähän</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тышке-тушке</l>
+     <stg>
+       <st Contlex="N_">тышке-тушк%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>sinne (sun) tänne, jotakuinkin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тышке-тушко</l> <stress>ты•шке-ту•шко</stress>
+     <stg>
+       <st Contlex="PRON_">ты•шке-тушко</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тышкевен</l> <stress>тышкевен</stress>
+     <stg>
+       <st Contlex="PRON_">тышкевен</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тышкен</l> <stress>тышкен</stress>
+     <stg>
+       <st Contlex="PRON_">тышкен</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тышкыла</l> <stress>тышкыла•</stress>
+     <stg>
+       <st Contlex="PRON_">тышкыла</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тышсе</l> <stress>тышсе</stress>
+     <stg>
+       <st Contlex="PRON_">тышсе</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыштак</l> <stress>ты•штак</stress>
+     <stg>
+       <st Contlex="PRON_">тыштак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыштат-туштат</l> <stress>тышта•т-тушта•т</stress>
+     <stg>
+       <st Contlex="PRON_">тышта•т-туштат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыште</l> <stress>ты•ште</stress>
+     <stg>
+       <st Contlex="PronDem">тышт%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>täällä, tässä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыште-туште</l>
+     <stg>
+       <st Contlex="PronDem">тыште-тушт%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>siellä täällä</t>
+       <t>paikoin</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тыште-тушто</l> <stress>ты•ште-ту•што</stress>
+     <stg>
+       <st Contlex="PRON_">ты•ште-тушто</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тӱйым</l>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>sinut, sinua</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">тӱйын</l>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>sinun</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">чыла</l> <stress>чыла•</stress>
+     <stg>
+       <st Contlex="PronInd">чыла</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>kaikki, koko</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">чылан</l> <stress>чыла•н</stress>
+     <stg>
+       <st Contlex="PRON_">чылан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">чыланже</l> <stress>чыла•нже</stress>
+     <stg>
+       <st Contlex="PRON_">чыланже</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">шкаланет</l>
+     <stg>
+       <st Contlex="PronRef">шкаланет</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(sinulle) itsellesi PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">шканда</l>
+     <stg>
+       <st Contlex="PronRef">шканда</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(teille) itsellenne PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">шканна</l>
+     <stg>
+       <st Contlex="PronRef">шканна</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(meille) itsellemme PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">шканышт</l>
+     <stg>
+       <st Contlex="PronRef">шканышт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(heille) itselleen PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">шкеныштын</l>
+     <stg>
+       <st Contlex="PronRef">шкеныштын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>heidän) itsensä; (heidän) oma(nsa) PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">южгодым</l> <stress>южго•дым</stress>
+     <stg>
+       <st Contlex="PRON_">южгодым</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">южгунам</l> <stress>южгуна•м</stress>
+     <stg>
+       <st Contlex="PronInd">южгунам</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>joskus</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">южгунамже</l> <stress>южгуна•мже</stress>
+     <stg>
+       <st Contlex="PRON_">южгунамже</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">юже</l>
+     <stg>
+       <st Contlex="PronInd">юж%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>joku, jokin, jonkinlainen</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">южик</l> <stress>южи•к</stress>
+     <stg>
+       <st Contlex="PRON_">южик</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">южикте</l> <stress>южи•кте</stress>
+     <stg>
+       <st Contlex="PRON_">южикте</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">южиктыже</l>
+     <stg>
+       <st Contlex="PronInd">южиктыж%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(tunnetuista) joku PronI</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">южиктышт</l>
+     <stg>
+       <st Contlex="PronInd">южиктышт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(tunnetuista) jotkut S</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">южо</l> <stress>ю•жо</stress>
+     <stg>
+       <st Contlex="PRON_">южо</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">южыже</l>
+     <stg>
+       <st Contlex="PronInd">южыж%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(tunnetuista) joku, jotkut</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">южышко</l> <stress>южышко</stress>
+     <stg>
+       <st Contlex="PRON_">южышко</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e>
+   <lg>
+     <l pos="Pron">южышто</l> <stress>южышто</stress>
+     <stg>
+       <st Contlex="PRON_">южышто</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">тиде</l> <stress>ти•де</stress>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>tämä</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шкаланда</l>
+     <stg>
+       <st Contlex="PronRef">шкаланда</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(teille) itsellenne PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шкаланем</l>
+     <stg>
+       <st Contlex="PronRef">шкаланем</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(minulle) itselleni PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шкаланже</l>
+     <stg>
+       <st Contlex="PronRef">шкаланж%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(hänelle) itselleen PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шкаланна</l>
+     <stg>
+       <st Contlex="PronRef">шкаланна</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(meille) itsellemme PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шкаланышт</l>
+     <stg>
+       <st Contlex="PronRef">шкаланышт</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(heille) itselleen PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шканем</l>
+     <stg>
+       <st Contlex="PronRef">шканем</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(minulle) itselleni PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шканет</l>
+     <stg>
+       <st Contlex="PronRef">шканет</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(sinulle) itsellesi PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шканже</l>
+     <stg>
+       <st Contlex="PronRef">шканж%{еы%}</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(hänelle) itselleen PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шке</l> <stress>шке</stress>
+     <stg>
+       <st Contlex="PronRef">шке</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>itse; oma PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шкеак</l> <stress>шке•ак</stress>
+     <stg>
+       <st Contlex="PRON_">шкеак</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шкеат</l> <stress>шкеа•т</stress>
+     <stg>
+       <st Contlex="PRON_">шкеат</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t pos="Pron"/>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шкемым</l>
+     <stg>
+       <st Contlex="PronRef">шкемым</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(minua) itseäni; (minun) omaani PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шкемын</l>
+     <stg>
+       <st Contlex="PronRef">шкемын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(minun) itseni/henkilökohtainen/oma(ni) PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шкенам</l>
+     <stg>
+       <st Contlex="PronRef">шкенам</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(meitä) itseämme; (meidän) omaamme PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шкенан</l>
+     <stg>
+       <st Contlex="PronRef">шкенан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(meidän) itsemme/oma(mme) PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шкендам</l>
+     <stg>
+       <st Contlex="PronRef">шкендам</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(teitä) itseänne; (teidän) omaanne PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шкендан</l>
+     <stg>
+       <st Contlex="PronRef">шкендан</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(teidän) itsenne/oma(nne) PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шкендым</l>
+     <stg>
+       <st Contlex="PronRef">шкендым</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(sinua) itseäsi; (sinun) omaasi PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шкендын</l>
+     <stg>
+       <st Contlex="PronRef">шкендын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(sinun) itsesi/oma(si) PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шкенжым</l>
+     <stg>
+       <st Contlex="PronRef">шкенжым</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(häntä) itseään; (hänen) omaansa PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шкенжын</l>
+     <stg>
+       <st Contlex="PronRef">шкенжын</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(hänen) itsensä/oma(nsa) PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+<e exclude="fst">
+   <lg>
+     <l pos="Pron">шкеныштым</l>
+     <stg>
+       <st Contlex="PronRef">шкеныштым</st>
+     </stg>
+   </lg>
+     <sources>
+     </sources>
+   <mg relId="0">
+     <semantics>
+     </semantics>
+     <tg xml:lang="fin">
+       <t>(heitä) itseään; (heidän) omaansa PronRef</t>
+     </tg>
+     <defNative/>
+   </mg>
+</e>
+</r> 
